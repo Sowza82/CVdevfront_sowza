@@ -1,6 +1,6 @@
 # CVdevfront_sowza
 
-#Cartão de visita desenvolvida no Masterclass prograMaria
+#Cartão de visita desenvolvida no  Masterclass  prograMaria
 
 
 - HTML
